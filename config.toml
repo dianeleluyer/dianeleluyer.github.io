@@ -1,0 +1,64 @@
+baseurl = "/"
+relativeurls = true
+languageCode = "fr"
+title = "Diane<br/> Le Luyer"
+theme = "hyde"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+copyright = "&copy; 2018"
+paginate = 10
+defaultContentLanguage = "fr"
+hasCJKLanguage = false
+defaultContentLanguageInSubdir = false
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "A C C U E I L"
+    url = "/about/"
+    weight = 1
+[[menu.main]]
+    name = "T H E S E"
+    url = "/thesis/"
+    weight = 2
+[[menu.main]]
+    name = "P U B L I C A T I O N S"
+    url = "/publications/"
+    weight = 3
+#[[menu.main]]
+#    name = "P O S T S"
+#    url = "/post/"
+[[menu.contact]]
+    name = "envelope"
+    url = "mailto:diane [AT] leluyer.org"
+[[menu.contact]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/dianeleluyer/"
+[[menu.contact]]
+    name = "GitHub"
+    url = "https://github.com/dianeleluyer"
+[author]
+    name = "Diane Le Luyer"
+    image = 'author.jpg'
+
+[params]
+    description = "Chercheuse en Géographie sociale et politique"
+    # Change contactHeader text
+    # Or comment out to use <hr> instead
+    contactHeader = "Contact"
+
+    # Change Hyde theme
+    themeColor = "theme-base-0d"
+    # Overide or add custom CSS styles
+    #customCSS = "/css/custom.css"
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
