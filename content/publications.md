@@ -3,6 +3,8 @@ date: "2020-03-07T21:48:51-07:00"
 title: Publications
 ---
 
+D. Le Luyer, "Perspectives d'une citoyenneté extraterritoriale, limites des politiques publiques à l'étranger. Accompagnement et rayonnement des Français de Londres", Thèse de doctorat, sous la direction de S. de Ruffray,  A. Brennetot,  C. Didelon-Loiseau, Université de Normandie - Rouen, (2020).
+
 D. Le Luyer, “Territoires de l’expatriation française, entre légitimité politique et appopriation
 citoyenne”, *Prolifération des territoires et représentations territoriales de
 l'Union Européenne*, Les dossiers des Annales de Droit (Presses Universitaires
