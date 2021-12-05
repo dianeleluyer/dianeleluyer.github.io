@@ -4,13 +4,13 @@ title: À propos
 layout: "default"
 ---
 
-Je m'intéresse aux rapports entre l'Etat français et la population -- principalement celle de l'étranger -- par le biais d'un croisement entre les politiques publiques menées hors de France et les représentations citoyennes.
-Ma recherche aborde la façon dont se construit une nouvelle modalité de citoyenneté, interrogeant les limites du modèle de l’Etat-nation, les perspectives de ses innovations politiques et l’émergence de multiples formes de pratiques et de représentations citoyennes dans la mondialisation.
+Mon expertise porte sur l'articulation des questions de société (géopolitique, migrations, environnement, santé, travail), des politiques publiques et de la citoyenneté.
+Mon expérience m'a permis d'acquérir un éventail de compétences dans différents domaines des sciences sociales (géographie, sciences politiques, sociologie, économie).
+
 
 ## Mots-clés
 * Citoyenneté
 * Politiques publiques
 * Représentations
-* Extraterritorialité
 * Géographie
 * Géopolitique
